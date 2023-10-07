@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ### My Achievements 🚀
 
 [![An image of @772003pranav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/772003pranav)](https://holopin.io/@772003pranav)
+[![An image of @772003pranav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/772003pranav)](https://holopin.io/@772003pranav)
