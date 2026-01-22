@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Pranav! 👋<br>
 🎓 B.Tech Computer Science & Engineering specializing in Artificial Intelligence graduate (Class of 2025).<br>
-💼 Worked as an Analyst at GEP from June 2025 to October 2025, after completing my internship there from January 2025 to May 2025.<br>
+💼 Worked as an Analyst at GEP from January 2025 to October 2025, after completing my internship there from January 2025 to May 2025.<br>
 🤖 Passionate AI enthusiast, constantly learning and adapting to the latest trends.<br>
 💡 Skilled in communication and teamwork, thriving in dynamic environments.<br>
 🧠 Dedicated to solving complex challenges with innovative AI solutions.<br>
